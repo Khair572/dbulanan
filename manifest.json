@@ -1,0 +1,15 @@
+{
+  "name": "Data Bulanan Santri",
+  "short_name": "Data Santri",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F5F7F6",
+  "theme_color": "#0E5C52",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
